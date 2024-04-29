@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Detection Lab                                 | <a href="https://github.com/IamJosephineCallisto/Detection-Lab/tree/main">Detection Lab</a>|
 | Bug Report | <a href="https://github.com/JosephineHalbach/Bug-Report/tree/main">Bug Report</a>|
 | Encrypting Images| <a href="https://github.com/JosephineHalbach/Encrypting-Images/blob/main/README.md">Encrypting Images</a>                            |
-|Malware Analysis Lab      | SOC Automation Lab                                        |
+|Malware Analysis Lab      |<a href="https://github.com/JosephineHalbach/Malware-Analysis/edit/main/README.md">Malware Analysis</a>                                   |
 | Decrypting Caesar Cipher                      | SOC Automation Lab         |
 | RFID Blocking | SOC Automation Lab                                         |
 
@@ -65,6 +65,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/IamJosephineCallisto/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/JosephineHalbach/Bug-Report">Bug Report</a>
 - <a href="https://github.com/JosephineHalbach/Encrypting-Images/blob/main/README.md">Encrypting Images</a>
-- <a href="">Malware Analysis Lab</a>
+- <a href="https://github.com/JosephineHalbach/Malware-Analysis/edit/main/README.md">Malware Analysis</a>
 - <a href="">project</a>
 
