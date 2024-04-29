@@ -49,6 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div> 
      <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/CISA-0A0A0A?style=for-the-badge&logo=cisa&logoColor=white)](https://www.isaca.org/credentialing/cisa)"/>
+    <img src="https://img.shields.io/badge/CISM-0A0A0A?style=for-the-badge&logo=cism&logoColor=white)](https://www.isaca.org/credentialing/cism)"/>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
