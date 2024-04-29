@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Detection Lab                                 | <a href="https://github.com/IamJosephineCallisto/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Bug Report | <a href="https://google.com">Detection Lab</a>|
 | Packet Sniffing                               |                            |
 |Keylogging      | SOC Automation Lab                                        |
 | Decrypting Caesar Cipher                      | SOC Automation Lab         |
