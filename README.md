@@ -64,4 +64,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/IamJosephineCallisto/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/JosephineHalbach/Bug-Report">Bug Report</a>
-- <a href="https://github.com/JosephineHalbach/Encrypting-Images/blob/main/README.md">Encrypting Images/a>
+- <a href="https://github.com/JosephineHalbach/Encrypting-Images/blob/main/README.md">Encrypting Images</a>
