@@ -17,7 +17,6 @@ I have profound interest in technology and a dedication to solving complex probl
 
 ## Work Experience
 
-<a href="https://linkedin.com/in/josephine-halbach-002343254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>	
 
 **Distribution Partner and Advisory Consultant | Swisslife-Select
 - Maintaining, foster and expanding business and client relationships
@@ -38,6 +37,7 @@ I have profound interest in technology and a dedication to solving complex probl
 - Verification and Validation V&V
 - Personal Data Protection
 - Fraud Detection Analysis
+  
 
 ## Project
 ###  The Development of a Network Intrusion Detection System (NIDS) Using Machine Learning Techniques
