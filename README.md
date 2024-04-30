@@ -73,7 +73,6 @@ Integrate the system with existing security infrastructure, including firewalls,
 
 <a href="https://www.buymeacoffee.com/JosephineHalbach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-
 ## Badges
 
 
@@ -84,6 +83,8 @@ Integrate the system with existing security infrastructure, including firewalls,
 <img src="https://img.shields.io/badge/CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white)"/>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure_Security_Technologies-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-security-technologies)" />
+
+
 
 <img src="https://img.shields.io/badge/PRINCE2-0091EA?style=for-the-badge&logo=PRINCE2&logoColor=white)](https://www.axelos.com/certifications/prince2))"/>
 <img scr="https://img.shields.io/badge/CISA-0A0A0A?style=for-the-badge&logo=cisa&logoColor=white)](https://www.isaca.org/credentialing/cisa)"/>
