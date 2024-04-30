@@ -1,70 +1,101 @@
 # Hello, I'm Josephine
-<a href="https://linkedin.com/in/josephine-halbach-002343254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have profound interest in technology and a dedication to solving complex problems.
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+# Portfolio
+![](https://komarev.com/ghpvc/?username=your-github-JosephineHalbach&style=flat-square)
 
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Detection Lab                                 | <a href="https://github.com/IamJosephineCallisto/Detection-Lab/tree/main">Detection Lab</a>|
-| Bug Report | <a href="https://github.com/JosephineHalbach/Bug-Report/tree/main">Bug Report</a>|
-| Encrypting Images| <a href="https://github.com/JosephineHalbach/Encrypting-Images/blob/main/README.md">Encrypting Images</a>                            |
-|Malware Analysis Lab      |<a href="https://github.com/JosephineHalbach/Malware-Analysis/edit/main/README.md">Malware Analysis</a>                                   |
-| Decrypting Caesar Cipher                      | SOC Automation Lab         |
-| RFID Blocking | SOC Automation Lab                                         |
+I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+## Education
+					       		
+- OJT Cyber Security Consultant	| New Horizons
+- DAAD-Scholarship at | USAL Salamanca
+- Management Assistant for Insurance and Finance Subject Area | IHK			        		
+- B.S., Economic Psychology | Fachhochschule für Ökonomie und Management (UG)
+
+## Work Experience
+
+<a href="https://linkedin.com/in/josephine-halbach-002343254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>	
+
+**Distribution Partner and Advisory Consultant | Swisslife-Select
+- Maintaining, foster and expanding business and client relationships
+- Monitoring budgets, spending, revenue and managing cost factors as well as identifying new clients and potential business opportunities
+
+  
+**Cyber Security Consultant | New Horizons
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+**O² Account Manager Digital Media
+- Business-2-Business B2B
+- Customer Relationship Management
+- Creative Problem Solving
+- Telecommunication
+
+**Technical Account Manager | WebID Solutions GmbH 
+- Verification and Validation V&V
+- Personal Data Protection
+- Fraud Detection Analysis
+
+## Project
+###  The Development of a Network Intrusion Detection System (NIDS) Using Machine Learning Techniques
+![depositphotos_671966926-stock-photo-women-using-laptop-computers-digital](https://github.com/ShawhinT/example-portfolio/assets/168281515/2b584e58-d51f-4700-9c54-953bce54e4dd)
+
+This project aims to design and implement a Network Intrusion Detection System (NIDS) utilizing machine learning methodologies to identify and classify potentially malicious network activities. The NIDS will operate in real-time, analyzing network traffic and issuing alerts for any suspicious or harmful behavior detected. The project encompasses several stages, including data collection, feature engineering, model training, and evaluation.
+
+Key Components of the Data Collection:
+Acquire network traffic data from diverse sources, such as packet captures (PCAP) obtained from network traffic or network flow data from routers and switches.
+
+Preprocessing and Feature Engineering:
+Extract pertinent features from the raw network traffic data, including source and destination IP addresses, port numbers, protocol types, packet sizes, and timestamps.
+Execute preprocessing tasks such as normalization and feature scaling to enhance data quality.
+
+Model Training:
+Employ machine learning algorithms such as Random Forest, Support Vector Machines (SVM), or Deep Neural Networks (DNN) to train models using labeled datasets of both normal and malicious network traffic.
+Experiment with various algorithms and hyperparameters to optimize model performance.
+
+Real-Time Analysis:
+Develop a real-time network traffic monitoring system capable of processing incoming packets and inputting them into trained machine learning models for classification.
+Generate alerts for any anomalies or suspicious activities detected during the analysis.
+
+Alerting and Reporting:
+Establish a mechanism to manage alerts generated by the NIDS, including notification of administrators or security personnel.
+Generate comprehensive reports summarizing detected incidents and their severity for further analysis.
+
+Evaluation and Testing:
+Evaluate the performance of the NIDS using diverse metrics such as accuracy, precision, recall, and F1-score.
+Test the system against various types of attacks, including both known and novel threats, to assess its effectiveness and resilience.
+Deployment and Integration:
+Deploy the NIDS in either a production environment or simulated network setting.
+Integrate the system with existing security infrastructure, including firewalls, intrusion prevention systems (IPS), and Security Information and Event Management (SIEM) systems, to bolster overall network security.
+
+<a href="https://www.buymeacoffee.com/JosephineHalbach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+## Badges
+
+
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exam-az-900)"/>
-</div>
-
-### SIEM 
-<div> 
-     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/CISA-0A0A0A?style=for-the-badge&logo=cisa&logoColor=white)](https://www.isaca.org/credentialing/cisa)"/>
-    <img src="https://img.shields.io/badge/CISM-0A0A0A?style=for-the-badge&logo=cism&logoColor=white)](https://www.isaca.org/credentialing/cism)"/>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-
-<div>
+<img src="https://img.shields.io/badge/EXIN_Scrum_Master-0091EA?style=for-the-badge&logo=EXIN&logoColor=white)](https://www.exin.com/certifications/scrum-master)" />
+<img src="https://img.shields.io/badge/EXIN_Product_Owner-0091EA?style=for-the-badge&logo=EXIN&logoColor=white)](https://www.exin.com/certifications/product-owner)" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white)"/>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure_Security_Technologies-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-security-technologies)" />
-<img src="https://img.shields.io/badge/EXIN_Scrum_Master-0091EA?style=for-the-badge&logo=EXIN&logoColor=white)](https://www.exin.com/certifications/scrum-master)" />
-<img src="https://img.shields.io/badge/EXIN_Product_Owner-0091EA?style=for-the-badge&logo=EXIN&logoColor=white)](https://www.exin.com/certifications/product-owner)" />
+
 <img src="https://img.shields.io/badge/PRINCE2-0091EA?style=for-the-badge&logo=PRINCE2&logoColor=white)](https://www.axelos.com/certifications/prince2))"/>
 <img scr="https://img.shields.io/badge/CISA-0A0A0A?style=for-the-badge&logo=cisa&logoColor=white)](https://www.isaca.org/credentialing/cisa)"/>
-
+    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exam-az-900)"/>
+     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/CISA-0A0A0A?style=for-the-badge&logo=cisa&logoColor=white)](https://www.isaca.org/credentialing/cisa)"/>
+    <img src="https://img.shields.io/badge/CISM-0A0A0A?style=for-the-badge&logo=cism&logoColor=white)](https://www.isaca.org/credentialing/cism)"/>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
-
-## Projects
-- <a href="https://github.com/IamJosephineCallisto/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/JosephineHalbach/Bug-Report">Bug Report</a>
-- <a href="https://github.com/JosephineHalbach/Encrypting-Images/blob/main/README.md">Encrypting Images</a>
-- <a href="https://github.com/JosephineHalbach/Malware-Analysis/edit/main/README.md">Malware Analysis</a>
-- <a href="">project</a>
-
