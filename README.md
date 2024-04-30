@@ -1,8 +1,10 @@
 # Hello, I'm Josephine
 
-
+![depositphotos_50389371-stock-photo-safety-concept](https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0)
 # Portfolio
 ![](https://komarev.com/ghpvc/?username=your-github-JosephineHalbach&style=flat-square)
+
+
 
 
 I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
