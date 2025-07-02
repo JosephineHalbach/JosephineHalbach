@@ -28,7 +28,7 @@ I have profound interest in technology and a dedication to solving complex probl
 **Cyber Security Consultant | New Horizons
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-- as a Scrum Master and Product Owner agile management was preferred approach to accomplish goals
+- as a Scrum Master and Product Owner agile management was my preferred approach to accomplish goals
 
 **O² Account Manager Digital Media
 - Business-2-Business B2B
