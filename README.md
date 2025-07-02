@@ -7,20 +7,20 @@
 
 
 
-I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now a cyber security channel account manager living out my dreams. 
 
 
 ## Education
 					       		
 - OJT Cyber Security Consultant	| New Horizons
 - DAAD-Scholarship at | USAL Salamanca
-- Management Assistant for Insurance and Finance Subject Area | IHK			        		
+- Tradeswoman for Insurance and Finances | IHK			        		
 - B.S., Economic Psychology | Fachhochschule für Ökonomie und Management (UG)
 
 ## Work Experience
 
 
-**Distribution Partner and Advisory Consultant | Swisslife-Select
+**Distribution Partner and Consultant | Swisslife-Select
 - Maintaining, foster and expanding business and client relationships
 - Monitoring budgets, spending, revenue and managing cost factors as well as identifying new clients and potential business opportunities
 
@@ -28,9 +28,11 @@ I have profound interest in technology and a dedication to solving complex probl
 **Cyber Security Consultant | New Horizons
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- as a Scrum Master and Product Owner agile management was preferred approach to accomplish goals
 
 **O² Account Manager Digital Media
 - Business-2-Business B2B
+- Business-2-Client B2C Marketing
 - Customer Relationship Management
 - Creative Problem Solving
 - Telecommunication
