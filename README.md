@@ -7,7 +7,7 @@
 
 
 
-I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now a cyber security channel account manager living out my dreams. 
+I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity. And now as a cyber security channel account manager living out my dreams. 
 
 
 ## Education
