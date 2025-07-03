@@ -73,6 +73,30 @@ I have profound interest in technology and a dedication to solving complex probl
 
 <a href="https://www.buymeacoffee.com/JosephineHalbach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<!-- index.html -->
+<h2>Angriffe nach Protokoll</h2>
+<canvas id="attackChart"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+fetch('data.json')
+  .then(r => r.json())
+  .then(data => {
+    const ctx = document.getElementById('attackChart');
+    new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: ['SSH', 'Telnet'],
+        datasets: [{
+          data: [data.ssh, data.telnet],
+          backgroundColor: ['#36A2EB', '#FF6384']
+        }]
+      }
+    });
+  });
+</script>
+
+
 ## Badges
 
 
