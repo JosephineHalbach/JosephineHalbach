@@ -14,34 +14,57 @@ I have profound interest in technology and a dedication to solving complex probl
 					       		
 - OJT Cyber Security Consultant	| New Horizons
 - DAAD-Scholarship at | USAL Salamanca
-- Tradeswoman for Insurance and Finances | IHK			        		
 - B.S., Economic Psychology | Fachhochschule für Ökonomie und Management (UG)
+- Tradeswoman for Insurance and Finances | IHK			        		
+
 
 ## Work Experience
 
+**Cyber Security Consultant | New Horizons
 
-**Distribution Partner and Consultant | Swisslife-Select
-- Maintaining, foster and expanding business and client relationships
-- Monitoring budgets, spending, revenue and managing cost factors as well as identifying new clients and potential business opportunities
+- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure
+
+- Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response
+
+- Acting as a central point of contact between security architecture, development, and compliance to create clarity and alignment
+
+- Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features
+
+- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments
+
+- Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA
+
+- Conducting awareness workshops and training to sensitize employees to security threats
 
   
-**Cyber Security Consultant | New Horizons
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-- as a Scrum Master and Product Owner agile management was my preferred approach to accomplish goals
+**Distribution Partner and Consultant | Swisslife-Select
+- Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales
+
+- Analyzing customer motives, market behavior, and sales metrics, as well as negotiation techniques and emotional intelligence in sales
+
+- Participating in a certified leadership training to further develop leadership skills, employee motivation, and a constructive feedback culture
+
+- Completing resilience training focused on mental strength, stress management, and self-leadership in a dynamic sales environment
+
+- Designing and presenting sales training sessions and team events
+
+- Collaborating closely with internal departments to further develop sales processes and customer-oriented solutions
+
 
 **O² Account Manager Digital Media
-- Business-2-Business B2B
-- Business-2-Client B2C Marketing
-- Customer Relationship Management
-- Creative Problem Solving
-- Telecommunication
+- Technical consulting and sales support for corporate clients in the areas of telecommunications and digital infrastructure
 
-**Technical Account Manager | WebID Solutions GmbH 
-- Verification and Validation V&V
-- Personal Data Protection
-- Fraud Detection Analysis
-  
+- Analyzing customer-specific requirements in mobile communications, IP telephony, SD-WAN, VPN, IoT, and M2M communication solutions
+
+- Developing customized solution concepts in collaboration with presales and technical specialists
+
+- Integrating O₂ business solutions into existing IT and network infrastructures for small and medium-sized enterprises (SMEs) and large customers
+
+- Managing complex tenders, contract negotiations, and framework agreements
+
+- Utilizing CRM and configuration tools for proposal creation, lead management, and forecast maintenance (e.g., Salesforce)
+
+- Managing interfaces between customers, technical support, and internal departments to ensure SLA and QoS compliance
 
 
 ![depositphotos_671966926-stock-photo-women-using-laptop-computers-digital](https://github.com/ShawhinT/example-portfolio/assets/168281515/2b584e58-d51f-4700-9c54-953bce54e4dd)
