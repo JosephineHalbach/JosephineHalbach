@@ -15,7 +15,7 @@ I have profound interest in technology and a dedication to solving complex probl
 - DAAD-Scholarship at | USAL Salamanca
 - B.S., Economic Psychology | Fachhochschule für Ökonomie und Management (UG)
 - Tradeswoman for Insurance and Finances | IHK
-- 		        		
+           		
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200">
 <br><br>
 
