@@ -13,7 +13,7 @@
 
 ## Work Experience
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="170"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="190"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br>
 
 
@@ -25,7 +25,7 @@
 - Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
 - Conducting awareness workshops and training to sensitize employees to security threats
-- 
+  
 
 
 **Distribution Partner and Consultant | Swisslife-Select
