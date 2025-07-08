@@ -18,16 +18,13 @@
 <br><br>
 
 **Cyber Security Consultant | New Horizons
-### 🛡️ <span style="color:blue">- Conducting comprehensive risk and vulnerability assessments  
-- Developing a product vision for threat detection and response  
-- Bridging security architecture, development & compliance  
-- Iteratively optimizing features through agile reviews  
-- Implementing firewalls, IDS/IPS, SIEM, EDR  
-- Advising on GDPR, ISO 27001, NIS-2, DORA  
-- Running employee awareness workshops
-</span>
-
-
+- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
+- Developing a product vision including business plans, market analysis and pilot projects in the area of threat detection and incident response  
+- Acting as a central point between security architecture, development and compliance to create clarity and alignment  
+- Agile mindset and continuous improvement: regularly reviewing, retrospectives and data-driven adjustments to iteratively optimize security features  
+- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
+- Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
+- Conducting awareness workshops and training to sensitize employees to security threats
 
 
 **Distribution Partner and Consultant | Swisslife-Select
