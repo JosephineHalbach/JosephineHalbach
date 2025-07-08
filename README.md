@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=HI+I'm+Josephine;nice+to+meet+you!)](https://git.io/typing-svg)
 
-<img src="assets/securepoint-logo.svg" width="300" alt="Securepoint Logo">
 
 
 ![depositphotos_50389371-stock-photo-safety-concept](https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0)
@@ -19,6 +18,15 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="190"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="202">
 <br><br>
 <br><br>
+
+<a href="https://www.securepoint.de" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
+    <rect width="240" height="60" rx="12" fill="#E10600"/>
+    <text x="120" y="38" text-anchor="middle" font-family="Arial, sans-serif"
+          font-size="20" fill="#fff">🔐 Visit Securepoint</text>
+  </svg>
+</a>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Cyber+Security+Consultant%7CNew+Horizons)](https://git.io/typing-svg)
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
