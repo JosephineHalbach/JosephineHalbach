@@ -15,14 +15,13 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150">
 <br><br> 
-**Cyber Security Consultant | New Horizons
-
-- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure
-- Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response
-- Acting as a central point of contact between security architecture, development, and compliance to create clarity and alignment
-- Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features
-- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments
-- Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA
+**Cyber Security Consultant | New Horizons**  
+- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure  
+- Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response  
+- Acting as a central point of contact between security architecture, development, and compliance to create clarity and alignment  
+- Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features  
+- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
+- Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
 - Conducting awareness workshops and training to sensitize employees to security threats
 
 **Distribution Partner and Consultant | Swisslife-Select
