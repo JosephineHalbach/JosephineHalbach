@@ -3,8 +3,7 @@
 ![depositphotos_50389371-stock-photo-safety-concept](https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0)
 # Portfolio
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=100&width=435&lines=I+have+profound+interest+in+technology;and+a+grand+dedication+to+solving+complex+problems.;My+journy+in+computer+science+has+led+me;to+develop+a+passion+for+cyber+security.;And+now+as+a+cyber+security+channel+account+manager;+I+collaborate+with+system+integrators+and+channel+partners;to+refine+their+service+offerings+;and+expand+their+technological+footprint)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=100&width=900&lines=I+have+profound+interest+in+technology+and+dedication+to+solve+complex+problems.;My+journy+in+computer+science+has+led+me+to+develop+a+passion+for+cyber+security.;Now+as+a+cyber+security+channel+account+manager+I+collaborate+with+system+integrators+;and+channel+partners+to+refine+and+expand+their+technological+footprint.)](https://git.io/typing-svg)
 
 ## Education
 					       		
