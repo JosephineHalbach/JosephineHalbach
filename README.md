@@ -19,7 +19,7 @@
 <br><br>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Securepoint+GmbH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Cyber+Security+Channel+Account+Manager%7CSecurepoint+GmbH)](https://git.io/typing-svg)
 - Driving the strategic development and support of existing system house and MSP partners within the Securepoint Partner Program
 - Acquiring new channel partners, with a focus on SME-oriented IT service providers and system integrators
 - Providing expert consulting and sales support for Securepoint solutions, including UTM firewalls, Antivirus Pro, email archiving, mobile security and Awareness Next
