@@ -15,52 +15,36 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150">
 <br><br> **Cyber Security Consultant | New Horizons
-
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure
-
 - Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response
-
 - Acting as a central point of contact between security architecture, development, and compliance to create clarity and alignment
-
 - Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features
-
 - Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments
-
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA
-
 - Conducting awareness workshops and training to sensitize employees to security threats
 
 
 
   
 **Distribution Partner and Consultant | Swisslife-Select
-- Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales
-
-- Analyzing customer motives, market behavior, and sales metrics, as well as negotiation techniques and emotional intelligence in sales
-
-- Participating in a certified leadership training to further develop leadership skills, employee motivation, and a constructive feedback culture
-
-- Completing resilience training focused on mental strength, stress management, and self-leadership in a dynamic sales environment
-
-- Designing and presenting sales training sessions and team events
-
+- Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales  
+- Analyzing customer motives, market behavior, and sales metrics, as well as negotiation techniques and emotional intelligence in sales  
+- Participating in a certified leadership training to further develop leadership skills, employee motivation, and a constructive feedback culture  
+- Completing resilience training focused on mental strength, stress management, and self-leadership in a dynamic sales environment  
+- Designing and presenting sales training sessions and team events  
 - Collaborating closely with internal departments to further develop sales processes and customer-oriented solutions
 
 
+
 **O² Account Manager Digital Media
-- Technical consulting and sales support for corporate clients in the areas of telecommunications and digital infrastructure
-
-- Analyzing customer-specific requirements in mobile communications, IP telephony, SD-WAN, VPN, IoT, and M2M communication solutions
-
-- Developing customized solution concepts in collaboration with presales and technical specialists
-
-- Integrating O₂ business solutions into existing IT and network infrastructures for small and medium-sized enterprises (SMEs) and large customers
-
-- Managing complex tenders, contract negotiations, and framework agreements
-
-- Utilizing CRM and configuration tools for proposal creation, lead management, and forecast maintenance (e.g., Salesforce)
-
+- Technical consulting and sales support for corporate clients in the areas of telecommunications and digital infrastructure  
+- Analyzing customer-specific requirements in mobile communications, IP telephony, SD-WAN, VPN, IoT, and M2M communication solutions  
+- Developing customized solution concepts in collaboration with presales and technical specialists  
+- Integrating O₂ business solutions into existing IT and network infrastructures for small and medium-sized enterprises (SMEs) and large customers  
+- Managing complex tenders, contract negotiations, and framework agreements  
+- Utilizing CRM and configuration tools for proposal creation, lead management, and forecast maintenance (e.g., Salesforce)  
 - Managing interfaces between customers, technical support, and internal departments to ensure SLA and QoS compliance
+
 
 
 ![depositphotos_671966926-stock-photo-women-using-laptop-computers-digital](https://github.com/ShawhinT/example-portfolio/assets/168281515/2b584e58-d51f-4700-9c54-953bce54e4dd)
