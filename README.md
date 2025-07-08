@@ -20,9 +20,9 @@ I have profound interest in technology and a dedication to solving complex probl
 
 ## Work Experience
 
-**Cyber Security Consultant | New Horizons
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150">
-<br><br>
+<br><br> **Cyber Security Consultant | New Horizons
+
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure
 
 - Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response
