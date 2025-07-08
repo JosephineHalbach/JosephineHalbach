@@ -35,6 +35,9 @@ I have profound interest in technology and a dedication to solving complex probl
 
 - Conducting awareness workshops and training to sensitize employees to security threats
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200">
+<br><br>
+
   
 **Distribution Partner and Consultant | Swisslife-Select
 - Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales
@@ -72,9 +75,6 @@ I have profound interest in technology and a dedication to solving complex probl
 
 <a href="https://www.buymeacoffee.com/JosephineHalbach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
-<br><br>
 
 ## Badges
 
