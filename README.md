@@ -19,6 +19,18 @@
 <br><br>
 <br><br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Securepoint+GmbH)](https://git.io/typing-svg)
+- Driving the strategic development and support of existing system house and MSP partners within the Securepoint Partner Program
+- Acquiring new channel partners, with a focus on SME-oriented IT service providers and system integrators
+- Providing expert consulting and sales support for Securepoint solutions, including UTM firewalls, Antivirus Pro, email archiving, mobile security and Awareness Next
+- Delivering partner enablement activities such as webinars, onboarding and certification workshops
+- Assisting partners with proposal creation and technical consulting, while supporting the execution of key projects in close collaboration with presales
+- Planning and implementing joint go-to-market initiatives, including the effective use of Marketing Development Funds (MDF)
+- Ensuring high partner satisfaction through close collaboration with Securepoint’s internal teams across sales, support and technical departments
+- Promoting and expanding the Securepoint-as-a-Service business model among MSPs and MSSPs
+- Representing Securepoint at trade shows, roadshows, and partner events to strengthen brand presence and channel relationships
+- Monitoring market trends and channel feedback to continuously refine the partner program and product strategy
+
 <a href="https://www.securepoint.de" target="_blank">
   <svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
     <rect width="240" height="60" rx="12" fill="#E10600"/>
