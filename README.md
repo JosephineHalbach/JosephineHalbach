@@ -16,6 +16,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150">
 <br><br> 
 
+
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p><strong>Cyber Security Consultant | New Horizons</strong></p>
@@ -30,7 +31,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="300">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="400">
   </div>
 </div>
 
