@@ -26,8 +26,8 @@
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
 - Conducting awareness workshops and training to sensitize employees to security threats
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Distribution+Partner+and+Consultant%7CSwisslife-Select)](https://git.io/typing-svg)
 
-**Distribution Partner and Consultant | Swisslife-Select
 - Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales  
 - Analyzing customer motives, market behavior and sales metrics, as well as negotiation techniques and emotional intelligence in sales  
 - Participating in a certified leadership training to further develop leadership skills, employee motivation and a constructive feedback culture  
@@ -35,8 +35,8 @@
 - Designing and presenting sales training sessions and team events  
 - Collaborating closely with internal departments to further develop sales processes and customer-oriented solutions
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=**O%C2%B2+Account+Manager+Digital+Media)](https://git.io/typing-svg)
 
-**O² Account Manager Digital Media
 - Technical consulting and sales support for corporate clients in the areas of telecommunications and digital infrastructure  
 - Analyzing customer-specific requirements in mobile communications, IP telephony, SD-WAN, VPN, IoT and M2M communication solutions  
 - Developing customized solution concepts in collaboration with presales and technical specialists  
