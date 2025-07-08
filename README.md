@@ -20,6 +20,8 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p><strong>Cyber Security Consultant | New Horizons</strong></p>
+	  <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="280">
+<br><br>
     <ul>
       <li>Conducting comprehensive risk and vulnerability assessments</li>
       <li>Developing product vision and pilot projects in threat detection</li>
