@@ -5,7 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-JosephineHalbach&style=flat-square)
 
 
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<br><br>
 
 I have profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity. And now as a cyber security channel account manager living out my dreams. 
 
