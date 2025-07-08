@@ -17,18 +17,6 @@
 <br><br>
 <br><br>
 
-# Mein Profil
-
-<div style="display:flex; align-items:flex-start;">
-  <div style="flex:1">
-    <!-- Dein normaler Text-Bereich -->
-    Weitere Infos, Über mich, etc.
-  </div>
-  <div>
-    <img src="https://github.com/JosephineHalbach/JosephineHalbach/raw/main/assets/blue-text.svg" width="600">
-  </div>
-</div>
-
 **Cyber Security Consultant | New Horizons
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
 - Developing a product vision including business plans, market analysis and pilot projects in the area of threat detection and incident response  
