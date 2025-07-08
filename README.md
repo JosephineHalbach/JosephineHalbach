@@ -36,7 +36,8 @@
 - Designing and presenting sales training sessions and team events  
 - Collaborating closely with internal departments to further develop sales processes and customer-oriented solutions
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="250">
+<br><br>
 <br><br>
 
 <br><br>
@@ -50,8 +51,7 @@
 - Utilizing CRM and configuration tools for proposal creation, lead management, and forecast maintenance (e.g., Salesforce)  
 - Managing interfaces between customers, technical support, and internal departments to ensure SLA and QoS compliance
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="250">
-<br><br>
+
 
 ![depositphotos_671966926-stock-photo-women-using-laptop-computers-digital](https://github.com/ShawhinT/example-portfolio/assets/168281515/2b584e58-d51f-4700-9c54-953bce54e4dd)
 
