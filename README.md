@@ -25,7 +25,10 @@
 - Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
 - Conducting awareness workshops and training to sensitize employees to security threats
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><br>
+
 
 
 **Distribution Partner and Consultant | Swisslife-Select
