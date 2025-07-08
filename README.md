@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=HI+I'm+Josephine;nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=HI+I'm+Josephine;nice+to+meet+you!)](https://git.io/typing-svg)
 
 ![depositphotos_50389371-stock-photo-safety-concept](https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0)
 # Portfolio
@@ -17,7 +17,7 @@
 <br><br>
 <br><br>
 
-**Cyber Security Consultant | New Horizons
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Cyber+Security+Consultant%7CNew+Horizons)](https://git.io/typing-svg)
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
 - Developing a product vision including business plans, market analysis and pilot projects in the area of threat detection and incident response  
 - Acting as a central point between security architecture, development and compliance to create clarity and alignment  
