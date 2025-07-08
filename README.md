@@ -25,6 +25,7 @@
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
 - Conducting awareness workshops and training to sensitize employees to security threats
 
+
 **Distribution Partner and Consultant | Swisslife-Select
 - Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales  
 - Analyzing customer motives, market behavior, and sales metrics, as well as negotiation techniques and emotional intelligence in sales  
