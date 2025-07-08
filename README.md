@@ -17,12 +17,16 @@
 <br><br> 
 
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 24px;">
+  <!-- Left GIF -->
+  <div style="flex: 0 0 auto; display: flex; align-items: center;">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="200">
+  </div>
+
+  <!-- Center: Text and small GIF -->
+  <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: center;">
     <p><strong>Cyber Security Consultant | New Horizons</strong></p>
-	  <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="280">
-<br><br>
-    <ul>
+    <ul style="text-align: left; display: inline-block;">
       <li>Conducting comprehensive risk and vulnerability assessments</li>
       <li>Developing product vision and pilot projects in threat detection</li>
       <li>Bridging security architecture, development & compliance</li>
@@ -32,12 +36,12 @@
       <li>Delivering awareness workshops and trainings</li>
     </ul>
   </div>
-  <div>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="400">
+
+  <!-- Right GIF -->
+  <div style="flex: 0 0 auto; display: flex; align-items: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="150">
   </div>
 </div>
-
-
 
 
 
