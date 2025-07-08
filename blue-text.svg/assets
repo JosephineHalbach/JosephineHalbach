@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280">
+  <style>
+    .small { fill: #1E90FF; font:14px 'Segoe UI',sans-serif; }
+  </style>
+  <text x="10" y="20" class="small">Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure</text>
+  <text x="10" y="40" class="small">Developing a product vision including business plans, market analysis and pilot projects in the area of threat detection and incident response</text>
+  <text x="10" y="60" class="small">Acting as a central point between security architecture, development and compliance to create clarity and alignment</text>
+  <text x="10" y="80" class="small">Agile mindset and continuous improvement: regularly reviewing, retrospectives and data-driven adjustments to iteratively optimize security features</text>
+  <text x="10" y="100" class="small">Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments</text>
+  <text x="10" y="120" class="small">Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA</text>
+  <text x="10" y="140" class="small">Conducting awareness workshops and training to sensitize employees to security threats</text>
+</svg>
