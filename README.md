@@ -3,7 +3,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300"> 
-<br><br> (https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0) 
+<br><br>
 # Portfolio
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=100&width=900&lines=I+have+profound+interest+in+technology+and+dedication+to+solving+complex+problems.;My+journy+in+computer+science+has+led+me+to+develop+a+passion+for+cyber+security.;Now+as+a+cyber+security+channel+account+manager+I+collaborate+with+system+integrators+;and+channel+partners+to+refine+and+expand+their+technological+footprint.)](https://git.io/typing-svg)
