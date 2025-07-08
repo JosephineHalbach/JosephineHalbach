@@ -2,7 +2,7 @@
 
 
 
-![depositphotos_50389371-stock-photo-safety-concept](https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0) <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200">
+![depositphotos_50389371-stock-photo-safety-concept](https://github.com/JosephineHalbach/JosephineHalbach/assets/168281515/4b5a1984-ef46-4a76-804d-bb886fd8efd0) <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
 <br><br>
 # Portfolio
 
