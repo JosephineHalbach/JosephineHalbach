@@ -23,7 +23,8 @@
 - Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features  
 - Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
-- Conducting awareness workshops and training to sensitize employees to security threats    <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="50">
+- Conducting awareness workshops and training to sensitize employees to security threats
+  <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="250">
 <br><br>
 
 
