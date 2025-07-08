@@ -18,10 +18,10 @@
 <br><br>
 
 **Cyber Security Consultant | New Horizons
-- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure  
-- Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response  
-- Acting as a central point of contact between security architecture, development, and compliance to create clarity and alignment  
-- Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features  
+- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
+- Developing a product vision including business plans, market analysis and pilot projects in the area of threat detection and incident response  
+- Acting as a central point between security architecture, development and compliance to create clarity and alignment  
+- Agile mindset and continuous improvement: regularly reviewing, retrospectives and data-driven adjustments to iteratively optimize security features  
 - Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
 - Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
 - Conducting awareness workshops and training to sensitize employees to security threats
@@ -29,21 +29,21 @@
 
 **Distribution Partner and Consultant | Swisslife-Select
 - Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales  
-- Analyzing customer motives, market behavior, and sales metrics, as well as negotiation techniques and emotional intelligence in sales  
-- Participating in a certified leadership training to further develop leadership skills, employee motivation, and a constructive feedback culture  
-- Completing resilience training focused on mental strength, stress management, and self-leadership in a dynamic sales environment  
+- Analyzing customer motives, market behavior and sales metrics, as well as negotiation techniques and emotional intelligence in sales  
+- Participating in a certified leadership training to further develop leadership skills, employee motivation and a constructive feedback culture  
+- Completing resilience training focused on mental strength, stress management and self-leadership in a dynamic sales environment  
 - Designing and presenting sales training sessions and team events  
 - Collaborating closely with internal departments to further develop sales processes and customer-oriented solutions
 
 
 **O² Account Manager Digital Media
 - Technical consulting and sales support for corporate clients in the areas of telecommunications and digital infrastructure  
-- Analyzing customer-specific requirements in mobile communications, IP telephony, SD-WAN, VPN, IoT, and M2M communication solutions  
+- Analyzing customer-specific requirements in mobile communications, IP telephony, SD-WAN, VPN, IoT and M2M communication solutions  
 - Developing customized solution concepts in collaboration with presales and technical specialists  
 - Integrating O₂ business solutions into existing IT and network infrastructures for small and medium-sized enterprises (SMEs) and large customers  
-- Managing complex tenders, contract negotiations, and framework agreements  
-- Utilizing CRM and configuration tools for proposal creation, lead management, and forecast maintenance (e.g., Salesforce)  
-- Managing interfaces between customers, technical support, and internal departments to ensure SLA and QoS compliance
+- Managing complex tenders, contract negotiations and framework agreements  
+- Utilizing CRM and configuration tools for proposal creation, lead management and forecast maintenance (e.g., Salesforce)  
+- Managing interfaces between customers, technical support and internal departments to ensure SLA and QoS compliance
 
 
 
