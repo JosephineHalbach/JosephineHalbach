@@ -4,6 +4,7 @@
 # Portfolio
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=100&multiline=true&width=900&lines=I+have+profound+interest+in+technology+and+dedication+to+solve+complex+problems.;My+journy+in+computer+science+has+led+me+to+develop+a+passion+for+cyber+security.;Now+as+a+cyber+security+channel+account+manager+I+collaborate+with+system+integrators+;and+channel+partners+to+refine+and+expand+their+technological+footprint.)](https://git.io/typing-svg)
+
 ## Education
 					       		
 - OJT Cyber Security Consultant	| New Horizons
