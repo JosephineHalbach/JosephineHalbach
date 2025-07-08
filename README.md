@@ -61,10 +61,8 @@
 - Managing interfaces between customers, technical support and internal departments to ensure SLA and QoS compliance
 
 
-
-![depositphotos_671966926-stock-photo-women-using-laptop-computers-digital](https://github.com/ShawhinT/example-portfolio/assets/168281515/2b584e58-d51f-4700-9c54-953bce54e4dd)
-
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400">
+<br><br>
 
 <a href="https://www.buymeacoffee.com/JosephineHalbach" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
