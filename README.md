@@ -16,14 +16,26 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150">
 <br><br> 
 
-**Cyber Security Consultant | New Horizons**  
-- Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications, and infrastructure  
-- Developing a product vision including business plans, market analysis, and pilot projects in the area of threat detection and incident response  
-- Acting as a central point of contact between security architecture, development, and compliance to create clarity and alignment  
-- Agile mindset & continuous improvement: regularly reviewing, retrospectives, and data-driven adjustments to iteratively optimize security features  
-- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
-- Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
-- Conducting awareness workshops and training to sensitize employees to security threats
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="300">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p><strong>Cyber Security Consultant | New Horizons</strong></p>
+      <ul>
+        <li>Conducting comprehensive risk and vulnerability assessments</li>
+        <li>Developing product vision and pilot projects in threat detection</li>
+        <li>Bridging security architecture, development & compliance</li>
+        <li>Agile-driven optimization of security features</li>
+        <li>Implementing firewalls, IDS/IPS, SIEM, EDR in hybrid setups</li>
+        <li>Advising on GDPR, ISO 27001, NIS-2, DORA, BSI</li>
+        <li>Delivering awareness workshops and trainings</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="280">
 <br><br>
