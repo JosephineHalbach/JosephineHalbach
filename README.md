@@ -7,10 +7,7 @@
 
 ## Education
 					       		
-- OJT Cyber Security Consultant	| New Horizons
-- DAAD-Scholarship at | USAL Salamanca
-- B.S., Economic Psychology | Fachhochschule für Ökonomie und Management (UG)
-- Tradeswoman for Insurance and Finances | IHK
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1&random=true&width=435&lines=-+OJT+Cyber+Security+Consultant+%7C+New+Horizons+%09%09;-+DAAD+Scholarship+%7C+USAL+Salamanca+Espa%C3%B1a;-+B.+Sc.+Economic+Psycology+%7CFOM+(UG);-+Dual-Sector+Consultant%3A+Finance+%26+Insurance+%7C+IHK+)](https://git.io/typing-svg)
            		
 
 
