@@ -31,14 +31,6 @@
 - Representing Securepoint at trade shows, roadshows, and partner events to strengthen brand presence and channel relationships
 - Monitoring market trends and channel feedback to continuously refine the partner program and product strategy
 
-<a href="https://www.securepoint.de" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
-    <rect width="240" height="60" rx="12" fill="#E10600"/>
-    <text x="120" y="38" text-anchor="middle" font-family="Arial, sans-serif"
-          font-size="20" fill="#fff">🔐 Visit Securepoint</text>
-  </svg>
-</a>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Cyber+Security+Consultant%7CNew+Horizons)](https://git.io/typing-svg)
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
