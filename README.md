@@ -1,5 +1,4 @@
-<!-- START_ONBOARDING -->
-<!-- END_ONBOARDING -->
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=HI+I'm+Josephine;nice+to+meet+you!)](https://git.io/typing-svg)
 
