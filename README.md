@@ -22,35 +22,24 @@
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Cyber+Security+Channel+Account+Manager%7CSecurepoint+GmbH)](https://git.io/typing-svg)
-- Driving the strategic development and support of existing system house and MSP partners within the Securepoint Partner Program
-- Acquiring new channel partners, with a focus on SME-oriented IT service providers and system integrators
+- Driving the strategic development and support of existing system vendors and MSP partners within the Securepoint Partner channel
 - Providing expert consulting and sales support for Securepoint solutions, including UTM firewalls, antivirus, email archiving, mobile security and awareness training 
-- Delivering partner enablement activities such as webinars, onboarding and certification workshops
-- Assisting partners with proposal creation and technical consulting, while supporting the execution of key projects in close collaboration with presales
-- Planning and implementing joint go-to-market initiatives, including the effective use of Marketing Development Funds (MDF)
+- Delivering partner enablement activities such as webinars, onboarding, certification workshops and incentives 
 - Ensuring high partner satisfaction through close collaboration with Securepoint’s internal teams across sales, support and technical departments
-- Promoting and expanding the Securepoint-as-a-Service business model among MSPs and MSSPs
 - Representing Securepoint at trade shows, roadshows, and partner events to strengthen brand presence and channel relationships
-- Monitoring market trends and channel feedback to continuously refine the partner program and product strategy
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Cyber+Security+Consultant%7CNew+Horizons)](https://git.io/typing-svg)
 - Conducting comprehensive risk and vulnerability assessments to identify and evaluate potential weaknesses in networks, applications and infrastructure  
-- Developing a product vision including business plans, market analysis and pilot projects in the area of threat detection and incident response  
-- Acting as a central point between security architecture, development and compliance to create clarity and alignment  
+- Developing business plans, market analysis and acting as a central point between security architecture, development and compliance to create clarity and alignment 
 - Agile mindset and continuous improvement: regularly reviewing, retrospectives and data-driven adjustments to iteratively optimize security features  
-- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments  
-- Advising clients on compliance topics such as GDPR, ISO 27001, NIS-2, BSI standards, DORA  
-- Conducting awareness workshops and training to sensitize employees to security threats
+- Planning and implementing technical security solutions such as firewalls, IDS/IPS, SIEM, EDR in cloud and on-premises environments
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Distribution+Partner+and+Consultant%7CSwisslife-Select)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Distribution+Partner+and+Account-Manager%7CSwisslife-Select)](https://git.io/typing-svg)
 
 - Analyzing sales-relevant KPIs and deriving targeted measures to increase efficiency and optimize sales  
-- Analyzing customer motives, market behavior and sales metrics, as well as negotiation techniques and emotional intelligence in sales  
-- Participating in a certified leadership training to further develop leadership skills, employee motivation and a constructive feedback culture  
-- Completing resilience training focused on mental strength, stress management and self-leadership in a dynamic sales environment  
-- Designing and presenting sales training sessions and team events  
-- Collaborating closely with internal departments to further develop sales processes and customer-oriented solutions
+- Analyzing customer motives, market behavior and sales metrics, as well as negotiation techniques
+- Designing and presenting sales training sessions and team events 
+- Collaborating closely with departments to further develop sales processes and customer-oriented solutions
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=**O%C2%B2+Account+Manager+Digital+Media)](https://git.io/typing-svg)
 
@@ -59,7 +48,7 @@
 - Developing customized solution concepts in collaboration with presales and technical specialists  
 - Integrating O₂ business solutions into existing IT and network infrastructures for small and medium-sized enterprises (SMEs) and large customers  
 - Managing complex tenders, contract negotiations and framework agreements  
-- Utilizing CRM and configuration tools for proposal creation, lead management and forecast maintenance (e.g., Salesforce)  
+- Utilizing CRM and configuration tools for proposal creation, lead management and forecast maintenance  
 - Managing interfaces between customers, technical support and internal departments to ensure SLA and QoS compliance
 
 
